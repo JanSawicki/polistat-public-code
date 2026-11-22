@@ -1,0 +1,2 @@
+seed,series_length,series_replicates,panel_replicates,panel_series,panel_permutations,panel_breadth_tolerance_years,event_cluster_max_gap_years,match_tolerance_years,null_target_series_fwer,pelt_rbf_penalty,pelt_null_call_rate,seedbs_gain_threshold_noise_variance_units,seedbs_null_call_rate,pelt_null_calibration_replicates,seedbs_null_calibration_replicates
+20261121,25,300,50,40,999,0,2,1,0.05,1.9745762711864407,0.04,17.0,0.05,500,1200

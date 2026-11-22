@@ -1,0 +1,289 @@
+domain,method,series_id,variable_id,variable,region,start_year,end_year,break_years,break_count,benchmark_year,nearest_break_distance,benchmark_hit_within_tolerance
+budget,PELT,budget:8461:011200000000,8461,expenditure in chapter 60013 - Voivodship public roads,MAŁOPOLSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:012400000000,8461,expenditure in chapter 60013 - Voivodship public roads,ŚLĄSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8461:020800000000,8461,expenditure in chapter 60013 - Voivodship public roads,LUBUSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:023000000000,8461,expenditure in chapter 60013 - Voivodship public roads,WIELKOPOLSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:023200000000,8461,expenditure in chapter 60013 - Voivodship public roads,ZACHODNIOPOMORSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:030200000000,8461,expenditure in chapter 60013 - Voivodship public roads,DOLNOŚLĄSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:031600000000,8461,expenditure in chapter 60013 - Voivodship public roads,OPOLSKIE,2001,2025,2006;2016,2,2010,4.0,False
+budget,PELT,budget:8461:040400000000,8461,expenditure in chapter 60013 - Voivodship public roads,KUJAWSKO-POMORSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8461:042200000000,8461,expenditure in chapter 60013 - Voivodship public roads,POMORSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:042800000000,8461,expenditure in chapter 60013 - Voivodship public roads,WARMIŃSKO-MAZURSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:051000000000,8461,expenditure in chapter 60013 - Voivodship public roads,ŁÓDZKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:052600000000,8461,expenditure in chapter 60013 - Voivodship public roads,ŚWIĘTOKRZYSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:060600000000,8461,expenditure in chapter 60013 - Voivodship public roads,LUBELSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:061800000000,8461,expenditure in chapter 60013 - Voivodship public roads,PODKARPACKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8461:062000000000,8461,expenditure in chapter 60013 - Voivodship public roads,PODLASKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:8461:071400000000,8461,expenditure in chapter 60013 - Voivodship public roads,MAZOWIECKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8466:011200000000,8466,expenditure in chapter 70005 - Land and real estate management,MAŁOPOLSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8466:012400000000,8466,expenditure in chapter 70005 - Land and real estate management,ŚLĄSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8466:020800000000,8466,expenditure in chapter 70005 - Land and real estate management,LUBUSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8466:023000000000,8466,expenditure in chapter 70005 - Land and real estate management,WIELKOPOLSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8466:023200000000,8466,expenditure in chapter 70005 - Land and real estate management,ZACHODNIOPOMORSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8466:030200000000,8466,expenditure in chapter 70005 - Land and real estate management,DOLNOŚLĄSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8466:031600000000,8466,expenditure in chapter 70005 - Land and real estate management,OPOLSKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:8466:040400000000,8466,expenditure in chapter 70005 - Land and real estate management,KUJAWSKO-POMORSKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:8466:042200000000,8466,expenditure in chapter 70005 - Land and real estate management,POMORSKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:8466:042800000000,8466,expenditure in chapter 70005 - Land and real estate management,WARMIŃSKO-MAZURSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8466:051000000000,8466,expenditure in chapter 70005 - Land and real estate management,ŁÓDZKIE,2001,2025,2006;2011,2,2010,1.0,True
+budget,PELT,budget:8466:052600000000,8466,expenditure in chapter 70005 - Land and real estate management,ŚWIĘTOKRZYSKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:8466:060600000000,8466,expenditure in chapter 70005 - Land and real estate management,LUBELSKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:8466:061800000000,8466,expenditure in chapter 70005 - Land and real estate management,PODKARPACKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8466:062000000000,8466,expenditure in chapter 70005 - Land and real estate management,PODLASKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:8466:071400000000,8466,expenditure in chapter 70005 - Land and real estate management,MAZOWIECKIE,2001,2025,2011;2021,2,2010,1.0,True
+budget,PELT,budget:8470:011200000000,8470,expenditure in chapter 92116 - Libraries,MAŁOPOLSKIE,2001,2025,2016;2021,2,2010,6.0,False
+budget,PELT,budget:8470:012400000000,8470,expenditure in chapter 92116 - Libraries,ŚLĄSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8470:020800000000,8470,expenditure in chapter 92116 - Libraries,LUBUSKIE,2001,2025,2006;2016,2,2010,4.0,False
+budget,PELT,budget:8470:023000000000,8470,expenditure in chapter 92116 - Libraries,WIELKOPOLSKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:8470:023200000000,8470,expenditure in chapter 92116 - Libraries,ZACHODNIOPOMORSKIE,2001,2025,2006;2016,2,2010,4.0,False
+budget,PELT,budget:8470:030200000000,8470,expenditure in chapter 92116 - Libraries,DOLNOŚLĄSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:8470:031600000000,8470,expenditure in chapter 92116 - Libraries,OPOLSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8470:040400000000,8470,expenditure in chapter 92116 - Libraries,KUJAWSKO-POMORSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8470:042200000000,8470,expenditure in chapter 92116 - Libraries,POMORSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:8470:042800000000,8470,expenditure in chapter 92116 - Libraries,WARMIŃSKO-MAZURSKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:8470:051000000000,8470,expenditure in chapter 92116 - Libraries,ŁÓDZKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8470:052600000000,8470,expenditure in chapter 92116 - Libraries,ŚWIĘTOKRZYSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8470:060600000000,8470,expenditure in chapter 92116 - Libraries,LUBELSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8470:061800000000,8470,expenditure in chapter 92116 - Libraries,PODKARPACKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8470:062000000000,8470,expenditure in chapter 92116 - Libraries,PODLASKIE,2001,2025,2006;2016,2,2010,4.0,False
+budget,PELT,budget:8470:071400000000,8470,expenditure in chapter 92116 - Libraries,MAZOWIECKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8471:011200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",MAŁOPOLSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8471:012400000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ŚLĄSKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:8471:020800000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",LUBUSKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:8471:023000000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",WIELKOPOLSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8471:023200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ZACHODNIOPOMORSKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:8471:030200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",DOLNOŚLĄSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8471:031600000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",OPOLSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8471:040400000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",KUJAWSKO-POMORSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8471:042200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",POMORSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:8471:042800000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",WARMIŃSKO-MAZURSKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:8471:051000000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ŁÓDZKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:8471:052600000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ŚWIĘTOKRZYSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:8471:060600000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",LUBELSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:8471:061800000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",PODKARPACKIE,2001,2025,2016;2021,2,2010,6.0,False
+budget,PELT,budget:8471:062000000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",PODLASKIE,2001,2025,2006;2016,2,2010,4.0,False
+budget,PELT,budget:8471:071400000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",MAZOWIECKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:6510:011200000000,6510,expenditure in chapter 85148 - Occupational medicine,MAŁOPOLSKIE,2001,2025,2011;2021,2,2010,1.0,True
+budget,PELT,budget:6510:012400000000,6510,expenditure in chapter 85148 - Occupational medicine,ŚLĄSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:6510:020800000000,6510,expenditure in chapter 85148 - Occupational medicine,LUBUSKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:6510:023000000000,6510,expenditure in chapter 85148 - Occupational medicine,WIELKOPOLSKIE,2001,2025,2011,1,2010,1.0,True
+budget,PELT,budget:6510:023200000000,6510,expenditure in chapter 85148 - Occupational medicine,ZACHODNIOPOMORSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:6510:030200000000,6510,expenditure in chapter 85148 - Occupational medicine,DOLNOŚLĄSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:6510:031600000000,6510,expenditure in chapter 85148 - Occupational medicine,OPOLSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:6510:040400000000,6510,expenditure in chapter 85148 - Occupational medicine,KUJAWSKO-POMORSKIE,2001,2025,2021,1,2010,11.0,False
+budget,PELT,budget:6510:042200000000,6510,expenditure in chapter 85148 - Occupational medicine,POMORSKIE,2001,2025,2011;2021,2,2010,1.0,True
+budget,PELT,budget:6510:042800000000,6510,expenditure in chapter 85148 - Occupational medicine,WARMIŃSKO-MAZURSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:6510:051000000000,6510,expenditure in chapter 85148 - Occupational medicine,ŁÓDZKIE,2001,2025,2016,1,2010,6.0,False
+budget,PELT,budget:6510:052600000000,6510,expenditure in chapter 85148 - Occupational medicine,ŚWIĘTOKRZYSKIE,2001,2025,2006,1,2010,4.0,False
+budget,PELT,budget:6510:060600000000,6510,expenditure in chapter 85148 - Occupational medicine,LUBELSKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:6510:061800000000,6510,expenditure in chapter 85148 - Occupational medicine,PODKARPACKIE,2001,2025,,0,2010,,False
+budget,PELT,budget:6510:062000000000,6510,expenditure in chapter 85148 - Occupational medicine,PODLASKIE,2001,2025,2006;2021,2,2010,4.0,False
+budget,PELT,budget:6510:071400000000,6510,expenditure in chapter 85148 - Occupational medicine,MAZOWIECKIE,2001,2025,,0,2010,,False
+budget,SeedBS,budget:8461:011200000000,8461,expenditure in chapter 60013 - Voivodship public roads,MAŁOPOLSKIE,2001,2025,2005,1,2010,5.0,False
+budget,SeedBS,budget:8461:012400000000,8461,expenditure in chapter 60013 - Voivodship public roads,ŚLĄSKIE,2001,2025,2006;2020,2,2010,4.0,False
+budget,SeedBS,budget:8461:020800000000,8461,expenditure in chapter 60013 - Voivodship public roads,LUBUSKIE,2001,2025,2005,1,2010,5.0,False
+budget,SeedBS,budget:8461:023000000000,8461,expenditure in chapter 60013 - Voivodship public roads,WIELKOPOLSKIE,2001,2025,2005;2021,2,2010,5.0,False
+budget,SeedBS,budget:8461:023200000000,8461,expenditure in chapter 60013 - Voivodship public roads,ZACHODNIOPOMORSKIE,2001,2025,2007;2013;2018,3,2010,3.0,False
+budget,SeedBS,budget:8461:030200000000,8461,expenditure in chapter 60013 - Voivodship public roads,DOLNOŚLĄSKIE,2001,2025,2005;2010;2014,3,2010,0.0,True
+budget,SeedBS,budget:8461:031600000000,8461,expenditure in chapter 60013 - Voivodship public roads,OPOLSKIE,2001,2025,2005;2016,2,2010,5.0,False
+budget,SeedBS,budget:8461:040400000000,8461,expenditure in chapter 60013 - Voivodship public roads,KUJAWSKO-POMORSKIE,2001,2025,2007;2012;2018,3,2010,2.0,False
+budget,SeedBS,budget:8461:042200000000,8461,expenditure in chapter 60013 - Voivodship public roads,POMORSKIE,2001,2025,2005;2012;2018,3,2010,2.0,False
+budget,SeedBS,budget:8461:042800000000,8461,expenditure in chapter 60013 - Voivodship public roads,WARMIŃSKO-MAZURSKIE,2001,2025,2006;2016;2019,3,2010,4.0,False
+budget,SeedBS,budget:8461:051000000000,8461,expenditure in chapter 60013 - Voivodship public roads,ŁÓDZKIE,2001,2025,2006;2013;2018,3,2010,3.0,False
+budget,SeedBS,budget:8461:052600000000,8461,expenditure in chapter 60013 - Voivodship public roads,ŚWIĘTOKRZYSKIE,2001,2025,2006,1,2010,4.0,False
+budget,SeedBS,budget:8461:060600000000,8461,expenditure in chapter 60013 - Voivodship public roads,LUBELSKIE,2001,2025,2008,1,2010,2.0,False
+budget,SeedBS,budget:8461:061800000000,8461,expenditure in chapter 60013 - Voivodship public roads,PODKARPACKIE,2001,2025,2006;2015,2,2010,4.0,False
+budget,SeedBS,budget:8461:062000000000,8461,expenditure in chapter 60013 - Voivodship public roads,PODLASKIE,2001,2025,2011,1,2010,1.0,True
+budget,SeedBS,budget:8461:071400000000,8461,expenditure in chapter 60013 - Voivodship public roads,MAZOWIECKIE,2001,2025,2005;2017,2,2010,5.0,False
+budget,SeedBS,budget:8466:011200000000,8466,expenditure in chapter 70005 - Land and real estate management,MAŁOPOLSKIE,2001,2025,2006;2012,2,2010,2.0,False
+budget,SeedBS,budget:8466:012400000000,8466,expenditure in chapter 70005 - Land and real estate management,ŚLĄSKIE,2001,2025,2004,1,2010,6.0,False
+budget,SeedBS,budget:8466:020800000000,8466,expenditure in chapter 70005 - Land and real estate management,LUBUSKIE,2001,2025,2008;2011,2,2010,1.0,True
+budget,SeedBS,budget:8466:023000000000,8466,expenditure in chapter 70005 - Land and real estate management,WIELKOPOLSKIE,2001,2025,2005;2023,2,2010,5.0,False
+budget,SeedBS,budget:8466:023200000000,8466,expenditure in chapter 70005 - Land and real estate management,ZACHODNIOPOMORSKIE,2001,2025,2006;2013,2,2010,3.0,False
+budget,SeedBS,budget:8466:030200000000,8466,expenditure in chapter 70005 - Land and real estate management,DOLNOŚLĄSKIE,2001,2025,2008,1,2010,2.0,False
+budget,SeedBS,budget:8466:031600000000,8466,expenditure in chapter 70005 - Land and real estate management,OPOLSKIE,2001,2025,2015,1,2010,5.0,False
+budget,SeedBS,budget:8466:040400000000,8466,expenditure in chapter 70005 - Land and real estate management,KUJAWSKO-POMORSKIE,2001,2025,2011;2016;2022,3,2010,1.0,True
+budget,SeedBS,budget:8466:042200000000,8466,expenditure in chapter 70005 - Land and real estate management,POMORSKIE,2001,2025,2011,1,2010,1.0,True
+budget,SeedBS,budget:8466:042800000000,8466,expenditure in chapter 70005 - Land and real estate management,WARMIŃSKO-MAZURSKIE,2001,2025,2013,1,2010,3.0,False
+budget,SeedBS,budget:8466:051000000000,8466,expenditure in chapter 70005 - Land and real estate management,ŁÓDZKIE,2001,2025,2005;2008;2017;2023,4,2010,2.0,False
+budget,SeedBS,budget:8466:052600000000,8466,expenditure in chapter 70005 - Land and real estate management,ŚWIĘTOKRZYSKIE,2001,2025,,0,2010,,False
+budget,SeedBS,budget:8466:060600000000,8466,expenditure in chapter 70005 - Land and real estate management,LUBELSKIE,2001,2025,2011,1,2010,1.0,True
+budget,SeedBS,budget:8466:061800000000,8466,expenditure in chapter 70005 - Land and real estate management,PODKARPACKIE,2001,2025,2010,1,2010,0.0,True
+budget,SeedBS,budget:8466:062000000000,8466,expenditure in chapter 70005 - Land and real estate management,PODLASKIE,2001,2025,2005;2021,2,2010,5.0,False
+budget,SeedBS,budget:8466:071400000000,8466,expenditure in chapter 70005 - Land and real estate management,MAZOWIECKIE,2001,2025,2004;2011;2022,3,2010,1.0,True
+budget,SeedBS,budget:8470:011200000000,8470,expenditure in chapter 92116 - Libraries,MAŁOPOLSKIE,2001,2025,2006;2010;2018,3,2010,0.0,True
+budget,SeedBS,budget:8470:012400000000,8470,expenditure in chapter 92116 - Libraries,ŚLĄSKIE,2001,2025,2005;2020,2,2010,5.0,False
+budget,SeedBS,budget:8470:020800000000,8470,expenditure in chapter 92116 - Libraries,LUBUSKIE,2001,2025,2007;2011;2019;2023,4,2010,1.0,True
+budget,SeedBS,budget:8470:023000000000,8470,expenditure in chapter 92116 - Libraries,WIELKOPOLSKIE,2001,2025,2008;2012;2019;2022,4,2010,2.0,False
+budget,SeedBS,budget:8470:023200000000,8470,expenditure in chapter 92116 - Libraries,ZACHODNIOPOMORSKIE,2001,2025,2008;2018,2,2010,2.0,False
+budget,SeedBS,budget:8470:030200000000,8470,expenditure in chapter 92116 - Libraries,DOLNOŚLĄSKIE,2001,2025,2005;2020,2,2010,5.0,False
+budget,SeedBS,budget:8470:031600000000,8470,expenditure in chapter 92116 - Libraries,OPOLSKIE,2001,2025,2005;2018;2023,3,2010,5.0,False
+budget,SeedBS,budget:8470:040400000000,8470,expenditure in chapter 92116 - Libraries,KUJAWSKO-POMORSKIE,2001,2025,2004;2014;2023,3,2010,4.0,False
+budget,SeedBS,budget:8470:042200000000,8470,expenditure in chapter 92116 - Libraries,POMORSKIE,2001,2025,2004;2008;2023,3,2010,2.0,False
+budget,SeedBS,budget:8470:042800000000,8470,expenditure in chapter 92116 - Libraries,WARMIŃSKO-MAZURSKIE,2001,2025,2010,1,2010,0.0,True
+budget,SeedBS,budget:8470:051000000000,8470,expenditure in chapter 92116 - Libraries,ŁÓDZKIE,2001,2025,2007;2013;2018,3,2010,3.0,False
+budget,SeedBS,budget:8470:052600000000,8470,expenditure in chapter 92116 - Libraries,ŚWIĘTOKRZYSKIE,2001,2025,2007;2019,2,2010,3.0,False
+budget,SeedBS,budget:8470:060600000000,8470,expenditure in chapter 92116 - Libraries,LUBELSKIE,2001,2025,,0,2010,,False
+budget,SeedBS,budget:8470:061800000000,8470,expenditure in chapter 92116 - Libraries,PODKARPACKIE,2001,2025,2008;2018;2023,3,2010,2.0,False
+budget,SeedBS,budget:8470:062000000000,8470,expenditure in chapter 92116 - Libraries,PODLASKIE,2001,2025,2007;2014;2023,3,2010,3.0,False
+budget,SeedBS,budget:8470:071400000000,8470,expenditure in chapter 92116 - Libraries,MAZOWIECKIE,2001,2025,2006,1,2010,4.0,False
+budget,SeedBS,budget:8471:011200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",MAŁOPOLSKIE,2001,2025,2009;2018;2022,3,2010,1.0,True
+budget,SeedBS,budget:8471:012400000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ŚLĄSKIE,2001,2025,2007;2013;2020,3,2010,3.0,False
+budget,SeedBS,budget:8471:020800000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",LUBUSKIE,2001,2025,2015,1,2010,5.0,False
+budget,SeedBS,budget:8471:023000000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",WIELKOPOLSKIE,2001,2025,,0,2010,,False
+budget,SeedBS,budget:8471:023200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ZACHODNIOPOMORSKIE,2001,2025,2015;2023,2,2010,5.0,False
+budget,SeedBS,budget:8471:030200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",DOLNOŚLĄSKIE,2001,2025,2007;2023,2,2010,3.0,False
+budget,SeedBS,budget:8471:031600000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",OPOLSKIE,2001,2025,,0,2010,,False
+budget,SeedBS,budget:8471:040400000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",KUJAWSKO-POMORSKIE,2001,2025,2006;2023,2,2010,4.0,False
+budget,SeedBS,budget:8471:042200000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",POMORSKIE,2001,2025,2011,1,2010,1.0,True
+budget,SeedBS,budget:8471:042800000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",WARMIŃSKO-MAZURSKIE,2001,2025,2008;2018,2,2010,2.0,False
+budget,SeedBS,budget:8471:051000000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ŁÓDZKIE,2001,2025,2018,1,2010,8.0,False
+budget,SeedBS,budget:8471:052600000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",ŚWIĘTOKRZYSKIE,2001,2025,2008;2019,2,2010,2.0,False
+budget,SeedBS,budget:8471:060600000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",LUBELSKIE,2001,2025,2023,1,2010,13.0,False
+budget,SeedBS,budget:8471:061800000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",PODKARPACKIE,2001,2025,2018,1,2010,8.0,False
+budget,SeedBS,budget:8471:062000000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",PODLASKIE,2001,2025,2006;2019;2023,3,2010,4.0,False
+budget,SeedBS,budget:8471:071400000000,8471,"expenditure in chapter 92109 - Social and recreation centres, community centres, recreation rooms and clubs",MAZOWIECKIE,2001,2025,2016;2019;2023,3,2010,6.0,False
+budget,SeedBS,budget:6510:011200000000,6510,expenditure in chapter 85148 - Occupational medicine,MAŁOPOLSKIE,2001,2025,2010;2021,2,2010,0.0,True
+budget,SeedBS,budget:6510:012400000000,6510,expenditure in chapter 85148 - Occupational medicine,ŚLĄSKIE,2001,2025,2004;2007;2015;2019,4,2010,3.0,False
+budget,SeedBS,budget:6510:020800000000,6510,expenditure in chapter 85148 - Occupational medicine,LUBUSKIE,2001,2025,2008;2019;2023,3,2010,2.0,False
+budget,SeedBS,budget:6510:023000000000,6510,expenditure in chapter 85148 - Occupational medicine,WIELKOPOLSKIE,2001,2025,2012;2023,2,2010,2.0,False
+budget,SeedBS,budget:6510:023200000000,6510,expenditure in chapter 85148 - Occupational medicine,ZACHODNIOPOMORSKIE,2001,2025,2008;2020,2,2010,2.0,False
+budget,SeedBS,budget:6510:030200000000,6510,expenditure in chapter 85148 - Occupational medicine,DOLNOŚLĄSKIE,2001,2025,2004;2008;2019;2022,4,2010,2.0,False
+budget,SeedBS,budget:6510:031600000000,6510,expenditure in chapter 85148 - Occupational medicine,OPOLSKIE,2001,2025,2004;2008;2019,3,2010,2.0,False
+budget,SeedBS,budget:6510:040400000000,6510,expenditure in chapter 85148 - Occupational medicine,KUJAWSKO-POMORSKIE,2001,2025,2006;2015;2020,3,2010,4.0,False
+budget,SeedBS,budget:6510:042200000000,6510,expenditure in chapter 85148 - Occupational medicine,POMORSKIE,2001,2025,2010;2019,2,2010,0.0,True
+budget,SeedBS,budget:6510:042800000000,6510,expenditure in chapter 85148 - Occupational medicine,WARMIŃSKO-MAZURSKIE,2001,2025,2004,1,2010,6.0,False
+budget,SeedBS,budget:6510:051000000000,6510,expenditure in chapter 85148 - Occupational medicine,ŁÓDZKIE,2001,2025,2007;2014;2023,3,2010,3.0,False
+budget,SeedBS,budget:6510:052600000000,6510,expenditure in chapter 85148 - Occupational medicine,ŚWIĘTOKRZYSKIE,2001,2025,2007;2012;2023,3,2010,2.0,False
+budget,SeedBS,budget:6510:060600000000,6510,expenditure in chapter 85148 - Occupational medicine,LUBELSKIE,2001,2025,2005;2023,2,2010,5.0,False
+budget,SeedBS,budget:6510:061800000000,6510,expenditure in chapter 85148 - Occupational medicine,PODKARPACKIE,2001,2025,2005;2008;2019;2023,4,2010,2.0,False
+budget,SeedBS,budget:6510:062000000000,6510,expenditure in chapter 85148 - Occupational medicine,PODLASKIE,2001,2025,2006;2019;2023,3,2010,4.0,False
+budget,SeedBS,budget:6510:071400000000,6510,expenditure in chapter 85148 - Occupational medicine,MAZOWIECKIE,2001,2025,2011;2023,2,2010,1.0,True
+education,PELT,education:838:011200000000,838,primary schools,MAŁOPOLSKIE,1998,2025,2003;2008,2,2009,1.0,True
+education,PELT,education:838:012400000000,838,primary schools,ŚLĄSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:838:020800000000,838,primary schools,LUBUSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:838:023000000000,838,primary schools,WIELKOPOLSKIE,1998,2025,2003;2008,2,2009,1.0,True
+education,PELT,education:838:023200000000,838,primary schools,ZACHODNIOPOMORSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:838:030200000000,838,primary schools,DOLNOŚLĄSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:838:031600000000,838,primary schools,OPOLSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:838:040400000000,838,primary schools,KUJAWSKO-POMORSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:838:042200000000,838,primary schools,POMORSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:838:042800000000,838,primary schools,WARMIŃSKO-MAZURSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:838:051000000000,838,primary schools,ŁÓDZKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:838:052600000000,838,primary schools,ŚWIĘTOKRZYSKIE,1998,2025,2008,1,2009,1.0,True
+education,PELT,education:838:060600000000,838,primary schools,LUBELSKIE,1998,2025,2008;2013,2,2009,1.0,True
+education,PELT,education:838:061800000000,838,primary schools,PODKARPACKIE,1998,2025,2003;2013,2,2009,4.0,False
+education,PELT,education:838:062000000000,838,primary schools,PODLASKIE,1998,2025,2003;2008,2,2009,1.0,True
+education,PELT,education:838:071400000000,838,primary schools,MAZOWIECKIE,1998,2025,2003;2008,2,2009,1.0,True
+education,PELT,education:862:011200000000,862,primary pupils,MAŁOPOLSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:012400000000,862,primary pupils,ŚLĄSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:020800000000,862,primary pupils,LUBUSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:023000000000,862,primary pupils,WIELKOPOLSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:023200000000,862,primary pupils,ZACHODNIOPOMORSKIE,1998,2025,2008;2018,2,2009,1.0,True
+education,PELT,education:862:030200000000,862,primary pupils,DOLNOŚLĄSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:031600000000,862,primary pupils,OPOLSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:862:040400000000,862,primary pupils,KUJAWSKO-POMORSKIE,1998,2025,2008;2018,2,2009,1.0,True
+education,PELT,education:862:042200000000,862,primary pupils,POMORSKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:042800000000,862,primary pupils,WARMIŃSKO-MAZURSKIE,1998,2025,2008;2018,2,2009,1.0,True
+education,PELT,education:862:051000000000,862,primary pupils,ŁÓDZKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:862:052600000000,862,primary pupils,ŚWIĘTOKRZYSKIE,1998,2025,2008;2018,2,2009,1.0,True
+education,PELT,education:862:060600000000,862,primary pupils,LUBELSKIE,1998,2025,2008;2018,2,2009,1.0,True
+education,PELT,education:862:061800000000,862,primary pupils,PODKARPACKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,PELT,education:862:062000000000,862,primary pupils,PODLASKIE,1998,2025,2008;2018,2,2009,1.0,True
+education,PELT,education:862:071400000000,862,primary pupils,MAZOWIECKIE,1998,2025,2003;2018,2,2009,6.0,False
+education,PELT,education:2370:011200000000,2370,lower-secondary schools,MAŁOPOLSKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:012400000000,2370,lower-secondary schools,ŚLĄSKIE,1999,2018,2004;2014,2,2009,5.0,False
+education,PELT,education:2370:020800000000,2370,lower-secondary schools,LUBUSKIE,1999,2018,2004;2014,2,2009,5.0,False
+education,PELT,education:2370:023000000000,2370,lower-secondary schools,WIELKOPOLSKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:023200000000,2370,lower-secondary schools,ZACHODNIOPOMORSKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:030200000000,2370,lower-secondary schools,DOLNOŚLĄSKIE,1999,2018,2004;2014,2,2009,5.0,False
+education,PELT,education:2370:031600000000,2370,lower-secondary schools,OPOLSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2370:040400000000,2370,lower-secondary schools,KUJAWSKO-POMORSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2370:042200000000,2370,lower-secondary schools,POMORSKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:042800000000,2370,lower-secondary schools,WARMIŃSKO-MAZURSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2370:051000000000,2370,lower-secondary schools,ŁÓDZKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:052600000000,2370,lower-secondary schools,ŚWIĘTOKRZYSKIE,1999,2018,2004;2014,2,2009,5.0,False
+education,PELT,education:2370:060600000000,2370,lower-secondary schools,LUBELSKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:061800000000,2370,lower-secondary schools,PODKARPACKIE,1999,2018,2004,1,2009,5.0,False
+education,PELT,education:2370:062000000000,2370,lower-secondary schools,PODLASKIE,1999,2018,2004;2014,2,2009,5.0,False
+education,PELT,education:2370:071400000000,2370,lower-secondary schools,MAZOWIECKIE,1999,2018,2004;2014,2,2009,5.0,False
+education,PELT,education:2394:011200000000,2394,lower-secondary pupils,MAŁOPOLSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:012400000000,2394,lower-secondary pupils,ŚLĄSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:020800000000,2394,lower-secondary pupils,LUBUSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:023000000000,2394,lower-secondary pupils,WIELKOPOLSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:023200000000,2394,lower-secondary pupils,ZACHODNIOPOMORSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:030200000000,2394,lower-secondary pupils,DOLNOŚLĄSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:031600000000,2394,lower-secondary pupils,OPOLSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:040400000000,2394,lower-secondary pupils,KUJAWSKO-POMORSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:042200000000,2394,lower-secondary pupils,POMORSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:042800000000,2394,lower-secondary pupils,WARMIŃSKO-MAZURSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:051000000000,2394,lower-secondary pupils,ŁÓDZKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:052600000000,2394,lower-secondary pupils,ŚWIĘTOKRZYSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:060600000000,2394,lower-secondary pupils,LUBELSKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:061800000000,2394,lower-secondary pupils,PODKARPACKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:062000000000,2394,lower-secondary pupils,PODLASKIE,1999,2018,2009,1,2009,0.0,True
+education,PELT,education:2394:071400000000,2394,lower-secondary pupils,MAZOWIECKIE,1999,2018,2009,1,2009,0.0,True
+education,SeedBS,education:838:011200000000,838,primary schools,MAŁOPOLSKIE,1998,2025,2004;2007;2010;2017;2021,5,2009,1.0,True
+education,SeedBS,education:838:012400000000,838,primary schools,ŚLĄSKIE,1998,2025,2004;2014;2017;2022,4,2009,5.0,False
+education,SeedBS,education:838:020800000000,838,primary schools,LUBUSKIE,1998,2025,2001;2005;2010;2017,4,2009,1.0,True
+education,SeedBS,education:838:023000000000,838,primary schools,WIELKOPOLSKIE,1998,2025,2001;2005;2008;2012;2017,5,2009,1.0,True
+education,SeedBS,education:838:023200000000,838,primary schools,ZACHODNIOPOMORSKIE,1998,2025,2002;2007;2011;2017,4,2009,2.0,False
+education,SeedBS,education:838:030200000000,838,primary schools,DOLNOŚLĄSKIE,1998,2025,2001;2005;2010;2017,4,2009,1.0,True
+education,SeedBS,education:838:031600000000,838,primary schools,OPOLSKIE,1998,2025,2001;2004;2017,3,2009,5.0,False
+education,SeedBS,education:838:040400000000,838,primary schools,KUJAWSKO-POMORSKIE,1998,2025,2001;2007;2010;2017,4,2009,1.0,True
+education,SeedBS,education:838:042200000000,838,primary schools,POMORSKIE,1998,2025,2001;2005;2008;2017,4,2009,1.0,True
+education,SeedBS,education:838:042800000000,838,primary schools,WARMIŃSKO-MAZURSKIE,1998,2025,2001;2006;2010;2017,4,2009,1.0,True
+education,SeedBS,education:838:051000000000,838,primary schools,ŁÓDZKIE,1998,2025,2001;2004;2011;2017,4,2009,2.0,False
+education,SeedBS,education:838:052600000000,838,primary schools,ŚWIĘTOKRZYSKIE,1998,2025,2001;2007;2011,3,2009,2.0,False
+education,SeedBS,education:838:060600000000,838,primary schools,LUBELSKIE,1998,2025,2001;2007;2011;2021,4,2009,2.0,False
+education,SeedBS,education:838:061800000000,838,primary schools,PODKARPACKIE,1998,2025,2001;2005;2008;2011;2023,5,2009,1.0,True
+education,SeedBS,education:838:062000000000,838,primary schools,PODLASKIE,1998,2025,2004;2009;2012,3,2009,0.0,True
+education,SeedBS,education:838:071400000000,838,primary schools,MAZOWIECKIE,1998,2025,2004;2008;2011;2017,4,2009,1.0,True
+education,SeedBS,education:862:011200000000,862,primary pupils,MAŁOPOLSKIE,1998,2025,2001;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:012400000000,862,primary pupils,ŚLĄSKIE,1998,2025,2001;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:020800000000,862,primary pupils,LUBUSKIE,1998,2025,2001;2007;2018,3,2009,2.0,False
+education,SeedBS,education:862:023000000000,862,primary pupils,WIELKOPOLSKIE,1998,2025,2001;2006;2014;2018,4,2009,3.0,False
+education,SeedBS,education:862:023200000000,862,primary pupils,ZACHODNIOPOMORSKIE,1998,2025,2001;2007;2018,3,2009,2.0,False
+education,SeedBS,education:862:030200000000,862,primary pupils,DOLNOŚLĄSKIE,1998,2025,2001;2007;2014;2018,4,2009,2.0,False
+education,SeedBS,education:862:031600000000,862,primary pupils,OPOLSKIE,1998,2025,2002;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:040400000000,862,primary pupils,KUJAWSKO-POMORSKIE,1998,2025,2001;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:042200000000,862,primary pupils,POMORSKIE,1998,2025,2001;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:042800000000,862,primary pupils,WARMIŃSKO-MAZURSKIE,1998,2025,2002;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:051000000000,862,primary pupils,ŁÓDZKIE,1998,2025,2001;2006;2018,3,2009,3.0,False
+education,SeedBS,education:862:052600000000,862,primary pupils,ŚWIĘTOKRZYSKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,SeedBS,education:862:060600000000,862,primary pupils,LUBELSKIE,1998,2025,2002;2006;2010;2018,4,2009,1.0,True
+education,SeedBS,education:862:061800000000,862,primary pupils,PODKARPACKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,SeedBS,education:862:062000000000,862,primary pupils,PODLASKIE,1998,2025,2003;2008;2018,3,2009,1.0,True
+education,SeedBS,education:862:071400000000,862,primary pupils,MAZOWIECKIE,1998,2025,2001;2006;2014;2017,4,2009,3.0,False
+education,SeedBS,education:2370:011200000000,2370,lower-secondary schools,MAŁOPOLSKIE,1999,2018,2003;2008;2016,3,2009,1.0,True
+education,SeedBS,education:2370:012400000000,2370,lower-secondary schools,ŚLĄSKIE,1999,2018,2003;2010;2016,3,2009,1.0,True
+education,SeedBS,education:2370:020800000000,2370,lower-secondary schools,LUBUSKIE,1999,2018,2002;2016,2,2009,7.0,False
+education,SeedBS,education:2370:023000000000,2370,lower-secondary schools,WIELKOPOLSKIE,1999,2018,2003;2007;2016,3,2009,2.0,False
+education,SeedBS,education:2370:023200000000,2370,lower-secondary schools,ZACHODNIOPOMORSKIE,1999,2018,2003;2016,2,2009,6.0,False
+education,SeedBS,education:2370:030200000000,2370,lower-secondary schools,DOLNOŚLĄSKIE,1999,2018,2004;2013;2016,3,2009,4.0,False
+education,SeedBS,education:2370:031600000000,2370,lower-secondary schools,OPOLSKIE,1999,2018,2006;2011;2016,3,2009,2.0,False
+education,SeedBS,education:2370:040400000000,2370,lower-secondary schools,KUJAWSKO-POMORSKIE,1999,2018,2002;2007;2016,3,2009,2.0,False
+education,SeedBS,education:2370:042200000000,2370,lower-secondary schools,POMORSKIE,1999,2018,2004;2016,2,2009,5.0,False
+education,SeedBS,education:2370:042800000000,2370,lower-secondary schools,WARMIŃSKO-MAZURSKIE,1999,2018,2004;2009;2016,3,2009,0.0,True
+education,SeedBS,education:2370:051000000000,2370,lower-secondary schools,ŁÓDZKIE,1999,2018,2003;2011;2016,3,2009,2.0,False
+education,SeedBS,education:2370:052600000000,2370,lower-secondary schools,ŚWIĘTOKRZYSKIE,1999,2018,2003;2008;2013;2016,4,2009,1.0,True
+education,SeedBS,education:2370:060600000000,2370,lower-secondary schools,LUBELSKIE,1999,2018,2003;2007;2016,3,2009,2.0,False
+education,SeedBS,education:2370:061800000000,2370,lower-secondary schools,PODKARPACKIE,1999,2018,2003;2007;2016,3,2009,2.0,False
+education,SeedBS,education:2370:062000000000,2370,lower-secondary schools,PODLASKIE,1999,2018,2003;2013;2016,3,2009,4.0,False
+education,SeedBS,education:2370:071400000000,2370,lower-secondary schools,MAZOWIECKIE,1999,2018,2003;2008;2013;2016,4,2009,1.0,True
+education,SeedBS,education:2394:011200000000,2394,lower-secondary pupils,MAŁOPOLSKIE,1999,2018,2002;2009;2016,3,2009,0.0,True
+education,SeedBS,education:2394:012400000000,2394,lower-secondary pupils,ŚLĄSKIE,1999,2018,2002;2006;2009;2012,4,2009,0.0,True
+education,SeedBS,education:2394:020800000000,2394,lower-secondary pupils,LUBUSKIE,1999,2018,2002;2006;2009;2012,4,2009,0.0,True
+education,SeedBS,education:2394:023000000000,2394,lower-secondary pupils,WIELKOPOLSKIE,1999,2018,2002;2008;2011;2016,4,2009,1.0,True
+education,SeedBS,education:2394:023200000000,2394,lower-secondary pupils,ZACHODNIOPOMORSKIE,1999,2018,2002;2006;2009;2012,4,2009,0.0,True
+education,SeedBS,education:2394:030200000000,2394,lower-secondary pupils,DOLNOŚLĄSKIE,1999,2018,2002;2006;2009;2012,4,2009,0.0,True
+education,SeedBS,education:2394:031600000000,2394,lower-secondary pupils,OPOLSKIE,1999,2018,2002;2007;2013,3,2009,2.0,False
+education,SeedBS,education:2394:040400000000,2394,lower-secondary pupils,KUJAWSKO-POMORSKIE,1999,2018,2002;2007;2012,3,2009,2.0,False
+education,SeedBS,education:2394:042200000000,2394,lower-secondary pupils,POMORSKIE,1999,2018,2002;2008;2011;2016,4,2009,1.0,True
+education,SeedBS,education:2394:042800000000,2394,lower-secondary pupils,WARMIŃSKO-MAZURSKIE,1999,2018,2002;2007;2011;2016,4,2009,2.0,False
+education,SeedBS,education:2394:051000000000,2394,lower-secondary pupils,ŁÓDZKIE,1999,2018,2002;2009;2016,3,2009,0.0,True
+education,SeedBS,education:2394:052600000000,2394,lower-secondary pupils,ŚWIĘTOKRZYSKIE,1999,2018,2002;2007;2012,3,2009,2.0,False
+education,SeedBS,education:2394:060600000000,2394,lower-secondary pupils,LUBELSKIE,1999,2018,2002;2007;2012,3,2009,2.0,False
+education,SeedBS,education:2394:061800000000,2394,lower-secondary pupils,PODKARPACKIE,1999,2018,2002;2007;2012,3,2009,2.0,False
+education,SeedBS,education:2394:062000000000,2394,lower-secondary pupils,PODLASKIE,1999,2018,2002;2007;2012,3,2009,2.0,False
+education,SeedBS,education:2394:071400000000,2394,lower-secondary pupils,MAZOWIECKIE,1999,2018,2002;2009;2016,3,2009,0.0,True

@@ -1,0 +1,56 @@
+name: Deploy paper digest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'paper-digest/**'
+      - '.github/workflows/deploy-paper-digest.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Protect the cited digest snapshot
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          CURRENT_SHA: ${{ github.sha }}
+        run: |
+          if [[ -z "$BEFORE_SHA" || "$BEFORE_SHA" =~ ^0+$ ]]; then exit 0; fi
+          for snapshot_file in paper-digest/*/index.html; do
+            [[ -f "$snapshot_file" ]] || continue
+            snapshot_dir="${snapshot_file%/index.html}"
+            if git cat-file -e "$BEFORE_SHA:$snapshot_file" 2>/dev/null; then
+              if ! git diff --quiet "$BEFORE_SHA" "$CURRENT_SHA" -- "$snapshot_dir"; then
+                echo "Published digest snapshots are immutable; publish revisions under a new commit ID." >&2
+                exit 1
+              fi
+            fi
+          done
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+      - name: Upload digest
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: paper-digest
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

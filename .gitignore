@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+/data/
+/data-aggregated/
+/results/
+/scripts/manifest.json
+*.log

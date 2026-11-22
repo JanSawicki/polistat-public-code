@@ -1,0 +1,5 @@
+domain,method,series,single_series_breaks,flagged_year_windows_fdr05,system_year_events_fdr05,benchmark_year,benchmark_hit_within_tolerance,benchmark_breadth_max_within_tolerance,benchmark_description,permutations,fdr_alpha,panel_breadth_tolerance_years,match_tolerance_years,real_panel_fpr_fnr
+budget,PELT,80,86,2006;2016;2021,2006;2016;2021,2010,False,11,2010 budget-classification regulation (benchmark date; legal applicability must be checked against chosen chapters),999,0.05,0,1,not estimable; incomplete labels
+budget,SeedBS,80,169,2023,2023,2010,False,9,2010 budget-classification regulation (benchmark date; legal applicability must be checked against chosen chapters),999,0.05,0,1,not estimable; incomplete labels
+education,PELT,64,109,2003;2004;2008;2009;2018,2003;2008;2018,2009,True,20,"GUS source transition to Educational Information System (SIO), school year 2008/09; BDL year 2009",999,0.05,0,1,not estimable; incomplete labels
+education,SeedBS,64,218,2001;2002;2016;2017;2018;2023,2001;2017;2023,2009,False,12,"GUS source transition to Educational Information System (SIO), school year 2008/09; BDL year 2009",999,0.05,0,1,not estimable; incomplete labels
